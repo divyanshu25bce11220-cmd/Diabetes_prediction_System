@@ -48,7 +48,8 @@ git clone https://github.com/yourusername/diabetes-prediction-system.git
 cd diabetes-prediction-system
 
 # 2. Install dependencies
-pip install -r requirements.txt
+pip install pandas numpy scikit-learn streamlit
 
 # 3. Run the Streamlit app
+python model.py
 streamlit run app.py
