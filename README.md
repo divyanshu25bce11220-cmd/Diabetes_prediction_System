@@ -44,8 +44,7 @@ Built as part of the **Fundamentals in AI and ML** course project.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/diabetes-prediction-system.git
-cd diabetes-prediction-system
+git clone https://github.com/divyanshu25bce11220-cmd/Diabetes_prediction_System
 
 # 2. Install dependencies
 pip install pandas numpy scikit-learn streamlit
